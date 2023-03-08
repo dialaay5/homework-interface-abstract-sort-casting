@@ -22,7 +22,11 @@ public class Main {
 
         System.out.println("Question 4:");
         System.out.println("Polymorphism is the ability of an object to take on different forms.\n" +
-                "Reference of parent class can hold the child class object.But using this reference you can call methods those are correctly overridden in the child class");
+                "In computer science, it describes the concept that you can access objects of different types through the same interface\n." +
+                "Each type can provide its own independent implementation of this interface. \n" +
+                "Objects of different types can take different forms of interface types\n." +
+                "Being of different types they can implement the same interface and, operating with their interface type (different form) you relate only to the aspects of them that are defined in this interface while being oblivion to other aspects\n," +
+                "the implementation of the interface in each of them may be different. The same object can implement many interfaces so taking many forms\n.");
 
         System.out.println("Question 5:");
         Teacher mathTeacher = new MathTeacher("Mr.davis", "809543620", 100);
@@ -45,7 +49,8 @@ public class Main {
         System.out.println("Question 8:");
         System.out.println("Abstract methods are those types of methods that don’t require implementation for its declaration\n."+
                 "These methods don’t have a body which means no implementation.");
-        System.out.println("private abstract is an error!!\n");
+        System.out.println("Private abstract is an error, and it’s also meaningless because abstract methods are supposed only to be inherited,\n"+
+                "and you can’t inherit a private member.\n");
 
         System.out.println("Question 9:");
         System.out.println("It can have abstract and non-abstract methods.");

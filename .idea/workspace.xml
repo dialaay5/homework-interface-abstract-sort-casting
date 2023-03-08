@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03bcae4c-0be3-499c-89b3-495ba80689ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Apartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/HistoryTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/MathTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/StudioApartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sorting/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sorting/CarSortByBrandAndModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sorting/CarSortByBrandCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sorting/CarSortByColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sorting/CarSortBySeats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sorting/Main.java" afterDir="false" />
+    <list default="true" id="03bcae4c-0be3-499c-89b3-495ba80689ab" name="Changes" comment="upload all">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sorting/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sorting/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +22,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -61,7 +50,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/intelliJ/JavaProjects/homework interface abstract sort casting"
   }
 }]]></component>
   <component name="RunManager">
@@ -88,6 +78,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677428539718</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="upload all">
+      <created>1677502307460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1677502307460</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload all" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload all" />
   </component>
 </project>
